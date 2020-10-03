@@ -55,7 +55,6 @@ that use jQuery:
 }(window.jQuery));
 ````
 
-
 ## INSTALLATION
 
 `pip install cmsplugin-sections`
@@ -68,7 +67,6 @@ If using Django 1.7, then add:
 
 to settings.MIGRATION_MODULES
 
-
 ## NORMAL USAGE
 
 1. Add a Section Container plugin to the page;
@@ -79,7 +77,6 @@ to settings.MIGRATION_MODULES
    between sections;
 6. Optionally override or extend the provided templates to further suite your
    needs.
-
 
 ## ADVANCED USAGE
 
